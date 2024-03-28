@@ -1,0 +1,9 @@
+[2024-03-28 02:17:21,812]	INFO	 | batch_prediction.py:46	| Batch prediction for 1074 users is created
+[2024-03-28 02:17:21,816]	INFO	 | batch_prediction.py:50	| Predictoin can be found in the following path:
+/workspaces/lgcns-mlops-practice/predictions/20240328_rent_prediction.csv
+[2024-03-28 02:19:48,527]	INFO	 | batch_prediction.py:46	| Batch prediction for 1074 users is created
+[2024-03-28 02:19:48,531]	INFO	 | batch_prediction.py:50	| Predictoin can be found in the following path:
+/workspaces/lgcns-mlops-practice/predictions/20240328_rent_prediction.csv
+[2024-03-28 02:26:03,655]	INFO	 | batch_prediction.py:46	| Batch prediction for 1074 users is created
+[2024-03-28 02:26:03,659]	INFO	 | batch_prediction.py:50	| Predictoin can be found in the following path:
+/workspaces/lgcns-mlops-practice/predictions/20240328_rent_prediction.csv
